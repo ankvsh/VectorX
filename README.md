@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # VectorDB
 
 A vector database built from scratch in Python, with a web UI.
@@ -192,4 +191,3 @@ MIT
 =======
 # VectorX
 Python-based vector search engine with HNSW, KD-Tree, semantic search, and local LLM-powered RAG.
->>>>>>> 575cf2b8d0bd06837b8dfd6f4f56d2296905856c
