@@ -184,10 +184,3 @@ Both the API tests and the index tests run without Ollama; the API tests use a f
 ## Limitations
 
 This is an educational project. Data lives in memory only (nothing is persisted across restarts), the server is Flask's development server (use `waitress` or `gunicorn` for anything real), and pure-Python HNSW is far slower than the C++ original or production engines.
-
-## License
-
-MIT
-=======
-# VectorX
-Python-based vector search engine with HNSW, KD-Tree, semantic search, and local LLM-powered RAG.
